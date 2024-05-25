@@ -1,0 +1,1 @@
+Ardunioların kendi arasındaki haberleşmeler olduğu gibi ESP8266'nın da dışarı ile iletişimini sağlayan kodların da bulunduğu bölüm burasıdır.
